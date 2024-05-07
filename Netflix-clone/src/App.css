@@ -1,6 +1,9 @@
 body {
   background-color: aliceblue;
 }
+.App{
+  background-color: #111;
+}
 
 .ql-editor {
   min-height: 200px;
